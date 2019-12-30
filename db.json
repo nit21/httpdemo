@@ -1,22 +1,18 @@
+[{
+    "ID": "001",
+   "Name": "Eurasian Collared-Dove",
+    "Type": "Dove",
+    "Scientific Name": "Streptopelia"
+},
 {
-  "employees": [
-    {
-      "id": 1,
-      "first_name": "ram",
-      "last_name": "kumar",
-      "email": "ramkumar.com"
-    },
-    {
-      "id": 2,
-      "first_name": "Steve",
-      "last_name": "nelson",
-      "email": "stevenelson.com"
-    },
-    {
-      "id": 3,
-      "first_name": "bala",
-      "last_name": "krishnan",
-      "email": "balakrishnan.com"
-    }
-  ]
-}
+    "ID": "002",
+    "Name": "Bald Eagle",
+    "Type": "Hawk",
+    "Scientific Name": "Haliaeetus leucocephalus" 
+},
+{
+    "ID": "003",
+    "Name": "Cooper's Hawk",
+    "Type": "Hawk",
+    "Scientific Name": "Accipiter cooperii" 
+}]
