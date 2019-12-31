@@ -1,18 +1,22 @@
-[{
-    "ID": "001",
-   "Name": "Eurasian Collared-Dove",
-    "Type": "Dove",
-    "Scientific Name": "Streptopelia"
-},
 {
-    "ID": "002",
-    "Name": "Bald Eagle",
-    "Type": "Hawk",
-    "Scientific Name": "Haliaeetus leucocephalus" 
-},
-{
-    "ID": "003",
-    "Name": "Cooper's Hawk",
-    "Type": "Hawk",
-    "Scientific Name": "Accipiter cooperii" 
-}]
+"customers": [
+        {
+            "id": 1,
+            "name": "Jonathan Murphy",
+            "email": "Tristin83@gmail.com",
+            "phone": "001-904-3992",
+            "city": "Ericland",
+            "country": "Saint Barthelemy",
+            "title": "Global Directives Consultant"
+        }
+     {
+            "id": 2,
+            "name": "Jonathan Murphy1",
+            "email": "Tristin183@gmail.com",
+            "phone": "001-904-3991",
+            "city": "Ericland1",
+            "country": "Saint Barthelemy1",
+            "title": "Global Directives Consultant1"
+        }
+    ]
+}
