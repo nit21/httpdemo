@@ -1,36 +1,28 @@
- {
-            "products": [
-                {
-                "id": 1,
-                "name": "Product001",
-                "cost": 10.0,
-                "quantity": 1000,
-                "locationId" : 1,
-                "familyId" : 1
-                },
-                {
-                "id": 2,
-                "name": "Product002",
-                "cost": 20.0,
-                "quantity": 2000,
-                "locationId" : 1,
-                "familyId" : 2
-                },   
-                {
-                "id": 3,
-                "name": "Product003",
-                "cost": 30.0,
-                "quantity": 3000,
-                "locationId" : 3,
-                "familyId" : 2     
-                },
-                {
-                "id": 4,
-                "name": "Product004",
-                "cost": 40.0,
-                "quantity": 4000,
-                "locationId" : 2,
-                "familyId" : 3
-                }
-            ]
- }
+{
+ "students" : [
+  {
+   "id": 1,
+   "name": "Bala",
+   "age" : "21",
+   "address": "Chennai"
+  },
+  {
+   "id": 2,
+   "name": "Ramu",
+   "age" : "24",
+   "address": "Madurai"
+  },
+  {
+   "id": 3,
+   "name": "Siva",
+   "age" : "28",
+   "address": "Coimbatore"
+  },
+  {
+   "id": 4,
+   "name": "",
+   "age" : "21",
+   "address": "Chennai"
+  },
+   ]
+}
